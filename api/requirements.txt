@@ -1,0 +1,11 @@
+Flask==1.0.3
+httpie=1.0.2
+Flask-SQLAlchemy==2.4.0
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+psycopg2-binary
+Flask-Migrate
+flask-cors
+GeoAlchemy2
+redis
